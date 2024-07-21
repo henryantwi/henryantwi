@@ -8,19 +8,23 @@
   </a>
 </div>
 
+<hr>
+
 <h2 align="center">📫 How to Reach Me</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/henry-antwi-891906202/" style="margin-right: 10px;">
+  <a href="https://www.linkedin.com/in/henry-antwi-891906202/" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:antwi.henry@outlook.com" style="margin-left: 10px;">
+  <a href="mailto:antwi.henry@outlook.com" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://wa.me/233200570130" style="margin-left: 10px;">
+  <a href="https://wa.me/233200570130" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </div>
+
+<hr>
 
 <h2 align="center">🛠️ Languages and Frameworks</h2>
 
@@ -36,10 +40,12 @@
   <img src="https://img.shields.io/badge/FastApi-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastApi">
 </div>
 
+<hr>
+
 <h2 align="center">My GitHub Streak</h2>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=henryantwi&theme=dark" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com/?user=henryantwi&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
   </a>
 </div>
