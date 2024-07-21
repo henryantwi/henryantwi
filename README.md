@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white" alt="DRF">
   <img src="https://img.shields.io/badge/Ninja-092E20?style=for-the-badge&logo=ninja&logoColor=white" alt="Ninja">
   <img src="https://img.shields.io/badge/FastApi-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastApi">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
 </div>
 
 <hr>
