@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
 <!-- Header Section -->
-<h1 align="center">👋 Hi, I'm Henry</h1>
+<h1 align="center">👋 Hi, I'm Henry Nana Antwi</h1>
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Junior+Backend+Developer;Python+%7C+Django+%7C+FastAPI;AI%2C+Big+Data%2C+and+DevOps+Enthusiast;Lifelong+Learner+and+Problem+Solver" alt="Typing SVG">
