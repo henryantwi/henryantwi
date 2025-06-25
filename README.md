@@ -13,7 +13,7 @@
 <!-- About Section -->
 <h2 align="center">✨ About Me</h2>
 <p align="center">
-  🚀 I am an aspiring backend developer with a strong foundation in <b>Python</b> and frameworks like <b>Django</b> and <b>FastAPI</b>. <br>
+  🚀 I am a backend developer with a strong foundation in <b>Python</b> and frameworks like <b>Django</b> and <b>FastAPI</b>. <br>
   🌱 Currently exploring <b>AI, Big Data, and DevOps</b>. I enjoy building efficient, scalable systems and solving real-world problems with code.
 </p>
 
