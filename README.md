@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/henry-antwi-891906202/" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:antwi.henry@outlook.com" style="margin: 0 10px;">
+  <a href="mailto:henry.antwi@nesttop.tech" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://wa.me/233200570130" style="margin: 0 10px;">
