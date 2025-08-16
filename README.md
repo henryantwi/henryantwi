@@ -4,7 +4,14 @@
 <h1 align="center">👋 Hi, I'm Henry Nana Antwi</h1>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Junior+Backend+Developer;Python+%7C+Django+%7C+FastAPI;AI%2C+Big+Data%2C+and+DevOps+Enthusiast;Lifelong+Learner+and+Problem+Solver" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Junior+Backend+Developer;Python+%7C+Django+%7C+FastAPI;AWS+Certified+Cloud+Practitioner;AI%2C+Big+Data%2C+and+DevOps+Enthusiast" alt="Typing SVG">
+  </a>
+</div>
+
+<div align="center">
+  <!-- Certification badge -->
+  <a href="<!-- Optional: add your Credly verification link here -->" title="AWS Certified Cloud Practitioner (Foundational)">
+    <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Cloud Practitioner Badge">
   </a>
 </div>
 
@@ -14,7 +21,8 @@
 <h2 align="center">✨ About Me</h2>
 <p align="center">
   🚀 I am a backend developer with a strong foundation in <b>Python</b> and frameworks like <b>Django</b> and <b>FastAPI</b>. <br>
-  🌱 Currently exploring <b>AI, Big Data, and DevOps</b>. I enjoy building efficient, scalable systems and solving real-world problems with code.
+  🌱 Currently exploring <b>AI, Big Data, and DevOps</b>. I enjoy building efficient, scalable systems and solving real-world problems with code. <br>
+  ✅ <b>AWS Certified Cloud Practitioner</b> — familiar with AWS core services, security, pricing, and best practices.
 </p>
 
 <hr>
@@ -55,11 +63,23 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
   
-  <!-- DevOps & Deployment -->
+  <!-- DevOps & Cloud -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean">
+</div>
+
+<hr>
+
+<!-- Certifications Section -->
+<h2 align="center">🎓 Certifications</h2>
+<div align="center">
+  <a href="<!-- Optional: add your Credly verification link here -->" title="Verify AWS Certified Cloud Practitioner">
+    <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Cloud Practitioner">
+  </a>
+  <p><i>Foundational level — validated knowledge of AWS Cloud concepts, services, security, pricing, and support.</i></p>
 </div>
 
 <hr>
