@@ -4,7 +4,7 @@
 <h1 align="center">👋 Hi, I'm Henry Nana Antwi</h1>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Junior+Backend+Developer;Python+%7C+Django+%7C+FastAPI;AWS+Certified+Cloud+Practitioner;AI%2C+Big+Data%2C+and+DevOps+Enthusiast" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Junior+Backend+Developer;Python+%7C+Django+%7C+FastAPI;AI%2C+Big+Data%2C+and+DevOps+Enthusiast" alt="Typing SVG">
   </a>
 </div>
 
@@ -66,17 +66,6 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean">
-</div>
-
-<hr>
-
-<!-- Certifications Section -->
-<h2 align="center">🎓 Certifications</h2>
-<div align="center">
-  <a href="<!-- Optional: add your Credly verification link here -->" title="Verify AWS Certified Cloud Practitioner">
-    <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Cloud Practitioner">
-  </a>
-  <p><i>Foundational level — validated knowledge of AWS Cloud concepts, services, security, pricing, and support.</i></p>
 </div>
 
 <hr>
