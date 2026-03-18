@@ -4,7 +4,7 @@
 <h1 align="center">👋 Hi, I'm Henry Nana Antwi</h1>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Junior+Backend+Developer;Python+%7C+Django+%7C+FastAPI;AI%2C+Big+Data%2C+and+DevOps+Enthusiast" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Junior+Backend+Developer;Python+%7C+Django+%7C+FastAPI;AI%2C+Big+Data%2C+and+Data+Engineering+Trainee" alt="Typing SVG">
   </a>
 </div>
 
