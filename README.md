@@ -1,12 +1,15 @@
 # Henry Nana Antwi
 
-**Data Engineer · Backend Developer**
+**Data Engineer · Fullstack Vibe Engineer**
 
-[LinkedIn](https://www.linkedin.com/in/henry-antwi-891906202/) · [henry.antwi@nesttop.tech](mailto:hello@henryantwi.dev)
+I work primarily in data engineering - building pipelines with Spark, Airflow, and Kafka across AWS and Microsoft Fabric - with a strong backend foundation in Python (Django, FastAPI) and Node.js. My AI and software development skills stay in active use alongside.
 
-I work primarily in data engineering — building pipelines with Spark, Airflow, and Kafka across AWS and Microsoft Fabric — with a strong backend foundation in Python (Django, FastAPI) and Node.js. My AI and software development skills stay in active use alongside.
+**Certifications**
 
-**Certification:** AWS Certified Cloud Practitioner <!-- Optional: wrap in a link to your Credly verification page -->
+- Microsoft Certified: Fabric Data Engineer Associate
+- AWS Certified Cloud Practitioner
+
+<!-- Optional: link each certification to its Credly / Microsoft Learn verification page -->
 
 ## Tech Stack
 
@@ -55,9 +58,17 @@ I work primarily in data engineering — building pipelines with Spark, Airflow,
 
 ## GitHub Stats
 
+<!--
+  These cards point at the shared public github-readme-stats instance, which is
+  permanently rate-limited and often fails to render. To fix permanently:
+  fork anuraghazra/github-readme-stats, deploy it to Vercel, add your PAT as the
+  PAT_1 env var, then find-and-replace the host below with your own instance:
+      github-readme-stats.vercel.app  ->  your-instance.vercel.app
+-->
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=henryantwi&show_icons=true&theme=dark&hide_border=true&bg_color=00000000">
-  <img src="https://github-readme-stats.vercel.app/api?username=henryantwi&show_icons=true&hide_border=true&bg_color=00000000" alt="GitHub stats" height="165">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=henryantwi&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=00000000">
+  <img src="https://github-readme-stats.vercel.app/api?username=henryantwi&show_icons=true&count_private=true&hide_border=true&bg_color=00000000" alt="GitHub stats" height="165">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=henryantwi&layout=compact&theme=dark&hide_border=true&bg_color=00000000">
